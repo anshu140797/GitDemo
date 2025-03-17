@@ -11,7 +11,8 @@ public class while_loop {
 //            i--;  // Decrease i in each iteration
 //        }
        
-       
+       System.out.println("hello");
+       System.out.println("tutuy");
 
 	}
 
