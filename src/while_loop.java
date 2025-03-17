@@ -13,6 +13,9 @@ public class while_loop {
        
        System.out.println("hello");
        System.out.println("tutuy");
+       System.out.println("ttuyt");
+       System.out.println("tughkhkjlktuy");
+       
 
 	}
 
